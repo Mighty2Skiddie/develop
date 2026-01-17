@@ -1,0 +1,14 @@
+# Core libraries for building the API and running the server
+fastapi
+uvicorn
+
+# LangChain for orchestrating LLM interactions
+langchain
+langchain-openai
+
+# Utilities for handling .docx files and environment variables
+python-docx
+python-dotenv
+tiktoken
+python-multipart
+
